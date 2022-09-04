@@ -1,0 +1,71 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "Test.test",
+            "projectName": "Lab9_02_d849ff42",
+            "vmArgs": "--module-path \"c:\\Program Files\\Java\\javafx-sdk-18.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab9_02_Pro6",
+            "request": "launch",
+            "mainClass": "Pro6.Lab9_02_Pro6",
+            "projectName": "Lab9_02_d849ff42",
+            "vmArgs": "--module-path \"c:\\Program Files\\Java\\javafx-sdk-18.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab9_02_Pro5",
+            "request": "launch",
+            "mainClass": "Pro5.Lab9_02_Pro5",
+            "projectName": "Lab9_02_d849ff42",
+            "vmArgs": "--module-path \"c:\\Program Files\\Java\\javafx-sdk-18.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab9_02_Pro4",
+            "request": "launch",
+            "mainClass": "Pro4.Lab9_02_Pro4",
+            "projectName": "Lab9_02_d849ff42",
+            "vmArgs": "--module-path \"c:\\Program Files\\Java\\javafx-sdk-18.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab9_02_Pro3",
+            "request": "launch",
+            "mainClass": "Pro3.Lab9_02_Pro3",
+            "projectName": "Lab9_02_d849ff42",
+            "vmArgs": "--module-path \"c:\\Program Files\\Java\\javafx-sdk-18.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab9_02_Pro2",
+            "request": "launch",
+            "mainClass": "Pro2.Lab9_02_Pro2",
+            "projectName": "Lab9_02_d849ff42",
+            "vmArgs": "--module-path \"c:\\Program Files\\Java\\javafx-sdk-18.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab9_02_Pro1",
+            "request": "launch",
+            "mainClass": "Pro1.Lab9_02_Pro1",
+            "projectName": "Lab9_02_d849ff42",
+            "vmArgs": "--module-path \"c:\\Program Files\\Java\\javafx-sdk-18.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "vmArgs": "--module-path \"c:\\Program Files\\Java\\javafx-sdk-18.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}

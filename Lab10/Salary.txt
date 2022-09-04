@@ -1,0 +1,18 @@
+FirstName1 LastName1 full 128666.26
+FirstName2 LastName2 associate 62317.74
+FirstName3 LastName3 full 78058.36
+FirstName4 LastName4 associate 108042.95
+FirstName5 LastName5 assistant 52624.01
+FirstName6 LastName6 full 114421.45
+FirstName7 LastName7 assistant 65104.49
+FirstName8 LastName8 assistant 71048.42
+FirstName9 LastName9 assistant 71119.77
+FirstName10 LastName10 associate 64278.24
+Total salary for assistant professor is 259896.69
+Total salary for associate professor is 234638.93
+Total salary for full professor is 321146.06
+Total salary for all professor is 815681.69
+Average salary for assistant professor is  64974.17
+Average salary for associate professor is  78212.98
+Average salary for full professor is  107048.69
+Average salary for all professor is  81568.17
